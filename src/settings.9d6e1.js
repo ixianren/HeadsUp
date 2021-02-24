@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/Home.fire",orientation:"",jsList:["assets/libs/NoSleep.bd238.js"],bundleVers:{internal:"f1413",resources:"14762",main:"f2db2"}};
